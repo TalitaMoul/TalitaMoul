@@ -1,6 +1,6 @@
 # Olá, eu sou a Talita! 
 
-**Desenvolvedora Front-End** com background em suporte técnico N2 — o que me dá visão de ciclo completo: deploys em produção, microsserviços e resolução de incidentes na prática.
+**Desenvolvedora Front-End** com background em suporte técnico N2, o que me dá visão de ciclo completo: deploys em produção, microsserviços e resolução de incidentes na prática.
 
 Construo interfaces com **React**, **Next.js** e **TypeScript**, com foco em usabilidade e performance.
 
